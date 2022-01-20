@@ -8,7 +8,7 @@ Tested on Firefox 98.0a1 (2022-01-15) with Tampermonkey 4.13.6136.
 
 this is more of a learning excercise on my part, you should probably use something more popular that's less likely to break.
 
-## [install here](https://github.com/Blumlaut/FuckTwitterHome/raw/main/FTNFTs.user.js)
+## [install here](https://github.com/Blumlaut/FuckTwitterNFTs/raw/main/FTNFTs.user.js)
 
 
 
