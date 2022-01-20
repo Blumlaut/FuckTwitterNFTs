@@ -1,7 +1,7 @@
 # FuckTwitterNFTs
 Fuck Twitter NFTs - Userscript to delete or block all occurances of NFT Users on Twitter 
 
-Userscript will by default, attempt to delete tweets with NFT Avatars from timeline, if BlockingMode is set to 1, will actively try and block them, currently only works on timeline tweets though.
+Userscript will by default, attempt to delete tweets with NFT Avatars from timeline, if BlockingMode is set to 1, will actively try and block them, probably only works on timeline tweets though (untested in notifications)
 
 Tested on Firefox 98.0a1 (2022-01-15) with Tampermonkey 4.13.6136.
 
